@@ -1,9 +1,9 @@
-# Semestre_4_Exercicios
-Exercícios de Listas e tarefas desenvolvidos no 4º Semestre
+# Semestre_4_Exercises
+Exercises from lists and tasks developed in the 4th Semester
 
-Programação Orientada a Objetos em Java
+Object-oriented Programming in Java
 
-- Polimorfismo
-- Heranças
-- Tratamento de erros
-- Classes Anônimas e Aninhadas
+- Polymorphism
+- Inheritances
+- Exception handling
+- Anonymous and internal classes
